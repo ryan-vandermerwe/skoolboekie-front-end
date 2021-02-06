@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Test button</h1>
-    <!-- <button @click="handleClick">{{ buttonName }}</button> -->
+
     <b-button v-b-modal.modal-1>Launch this modal</b-button>
     <b-modal id="modal-1" title="First modal test!!">
       <p class="my-4">{{ modalMessage }}</p>

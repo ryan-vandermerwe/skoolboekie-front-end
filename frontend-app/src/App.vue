@@ -130,10 +130,6 @@ li {
   margin: 0 10px;
 }
 
-// a {
-//   color: #42b983;
-// }
-
 .label_user_pass {
   padding-left: 520px;
   font-size: 17;
